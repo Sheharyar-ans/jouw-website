@@ -10,7 +10,7 @@ jouw-website is a WordPress project created for Siteactief. This project aims to
 - SEO-friendly structure to improve search engine visibility
 - Integration of essential plugins for enhanced functionality
 
-## Developer
+### Developer
 This project is developed by Sheharyar Siraj, an experienced WordPress developer with expertise in creating professional and user-friendly websites. For any inquiries or support regarding this project, please contact Sheharyar Siraj at sherryansari870@gmail.com
 
 ---
